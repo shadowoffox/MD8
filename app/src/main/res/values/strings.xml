@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MD8</string>
+    <string name="title_activity_theme">ThemeActivity</string>
 </resources>
